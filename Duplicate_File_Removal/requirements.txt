@@ -1,0 +1,25 @@
+# --------------------------Standard libraries (no need to install)----------------------------------:
+
+os
+
+hashlib
+
+time
+
+tkinter (including messagebox, scrolledtext, filedialog, ttk, Toplevel, etc.)
+
+threading
+
+concurrent.futures
+
+#-------------------------------------External libraries (need installation)-------------------------------:
+
+tkinterdnd2
+
+#---------------------------------------🐍 Python Version-----------------------------------------------
+
+My code uses f-strings, which are available from Python 3.6+.
+
+It uses only modern libraries (no deprecated ones).
+
+Safe recommendation: Python 3.8+
