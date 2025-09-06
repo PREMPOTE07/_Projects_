@@ -1,4 +1,4 @@
-#-------------------------------------------------------- 🧹 Duplicate File Removal (Tkinter) -----------------------------------------------------------------#
+#------------------------------------------------- 🧹 Duplicate File Removal (Tkinter) -----------------------------------------------------#
 
 A simple and efficient '''GUI tool built with Python (Tkinter)''' to scan and delete duplicate files from a selected folder.  
 Supports '''drag & drop''', '''dark/light mode''', progress tracking, and the option to delete duplicates only with a specific extension.
